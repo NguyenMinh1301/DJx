@@ -1,6 +1,6 @@
 # DJx – Discord Bot (JavaScript)
 
-**DJx** is a lightweight Discord bot created purely for learning purposes. It offers three straightforward slash‑commands—`/ping`, `#avatar`, and `/play`—demonstrating how to interact with Discord's Gateway and voice features using **discord.js v14** and **discord‑player**.
+**DJx** is a lightweight Discord bot created purely for learning purposes. It offers three straightforward slash‑commands—`/ping`, `/avatar`, and `/play`—demonstrating how to interact with Discord's Gateway and voice features using **discord.js v14** and **discord‑player**.
 
 ---
 
@@ -73,16 +73,10 @@ config.js         # Presence & status
 
 ---
 
-## License
-This project is released under the **ISC License**. See `LICENSE` for details.
-
----
-
 ## Contact
 - **Email**: nguyenminh1301.dev@gmail.com
 - **GitHub**: [NguyenMinh1301](https://github.com/NguyenMinh1301)
 
 ---
 
-This project is part of my self-study and learning path in mastering Spring Boot. Any feedback or suggestions are warmly welcome!
-
+This project is part of my self-study and learning path in mastering JavaScript. Any feedback or suggestions are warmly welcome!
